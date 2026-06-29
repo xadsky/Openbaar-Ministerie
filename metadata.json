@@ -1,0 +1,8 @@
+{
+  "name": "OM Aruba: Anonymous Weapon Surrender",
+  "description": "An anonymous AI voice assistant for the Public Prosecution Service Aruba (Openbaar Ministerie) to guide the community on the weapon surrender program.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
